@@ -1,6 +1,6 @@
 id: e967e143-83b2-4561-acd6-b8deecd93b8d
 name: app2
-state: 0
+state: 1
 src:
     url: https://github.com/EmmanuelDuru/gitops-src.git
     path: ""
