@@ -1,0 +1,11 @@
+id: 57f23f2d-b14a-4046-aea4-40c4b5b14a83
+name: app3
+state: 0
+src:
+    url: https://github.com/EmmanuelDuru/gitops-src.git
+    path: ""
+    tag: ""
+tgt:
+    url: https://github.com/Emmanuelduru/dedest.git
+    path: app3
+    tag: ""
