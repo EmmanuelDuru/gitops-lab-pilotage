@@ -1,6 +1,6 @@
 id: b566a88c-2a44-416f-ba29-7d88b56e1f8d
 name: app1
-state: 0
+state: 1
 src:
     url: ssh://git@github.com/EmmanuelDuru/gitops-src.git
     path: ""
