@@ -1,7 +1,7 @@
 id: 88d40b67-a762-4af6-940b-ef4c2c87dc45
 name: ap201
 namespace: ap201
-state: 0
+state: 1
 src:
     url: https://github.com/EmmanuelDuru/gitops-src.git
     path: ""
