@@ -1,0 +1,12 @@
+id: ed2f9ec5-518a-4170-bef1-9df275b4ec4e
+name: ap200
+namespace: ap200
+state: 0
+src:
+    url: https://github.com/EmmanuelDuru/gitops-src.git
+    path: ""
+    tag: develop
+tgt:
+    url: https://github.com/EmmanuelDuru/dedest.git
+    path: ap200
+    tag: develop
