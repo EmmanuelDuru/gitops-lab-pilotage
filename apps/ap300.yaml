@@ -1,0 +1,11 @@
+id: 03827155-623f-435f-9300-719463910baa
+name: ap300
+state: 0
+src:
+    url: https://github.com/EmmanuelDuru/gitops-src.git
+    path: ""
+    tag: develop
+tgt:
+    url: https://github.com/EmmanuelDuru/dedest.git
+    path: ap300
+    tag: develop
