@@ -1,7 +1,7 @@
 id: 672b1478-ac88-4a03-8176-541173277549
 name: ap400
 namespace: ap400
-state: 0
+state: 1
 src:
     url: https://github.com/EmmanuelDuru/gitops-src.git
     path: ""
