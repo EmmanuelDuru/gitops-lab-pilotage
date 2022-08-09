@@ -1,6 +1,6 @@
 id: 03827155-623f-435f-9300-719463910baa
 name: ap300
-state: 0
+state: 1
 src:
     url: https://github.com/EmmanuelDuru/gitops-src.git
     path: ""
