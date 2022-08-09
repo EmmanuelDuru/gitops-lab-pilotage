@@ -1,0 +1,12 @@
+id: 88d40b67-a762-4af6-940b-ef4c2c87dc45
+name: ap201
+namespace: ap201
+state: 0
+src:
+    url: https://github.com/EmmanuelDuru/gitops-src.git
+    path: ""
+    tag: develop
+tgt:
+    url: https://github.com/EmmanuelDuru/dedest.git
+    path: ap201
+    tag: develop
