@@ -1,6 +1,6 @@
 id: 14c9ae77-a4fa-48d0-afe9-e8f300862156
 name: ap301
-state: 0
+state: 1
 src:
     url: https://github.com/EmmanuelDuru/gitops-src.git
     path: ""
