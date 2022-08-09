@@ -1,7 +1,7 @@
 id: f4416a02-c691-4afd-b325-b446d37f65da
 name: app100
 namespace: app100
-state: 0
+state: 1
 src:
     url: https://github.com/EmmanuelDuru/gitops-src.git
     path: ""
