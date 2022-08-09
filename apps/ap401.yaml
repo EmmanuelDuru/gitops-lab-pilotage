@@ -1,0 +1,12 @@
+id: ffd72960-e63a-4a2a-8a14-35cc14d2df9e
+name: ap401
+namespace: ap401
+state: 0
+src:
+    url: https://github.com/EmmanuelDuru/gitops-src.git
+    path: ""
+    tag: develop
+tgt:
+    url: https://github.com/EmmanuelDuru/dedest.git
+    path: ap401
+    tag: develop
